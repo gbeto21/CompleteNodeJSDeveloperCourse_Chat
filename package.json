@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/betog21/CompleteNodeJSDeveloperCourse_Chat#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
